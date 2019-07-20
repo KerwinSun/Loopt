@@ -39,6 +39,9 @@ Inputted loops must conform to the following restricitons:
 There are several example loops which can be used as input. These can be found in the [TestSnippets](https://github.com/Nathan-Cairns/Loopt/tree/master/Testsnippets) folder.
 
 ### Authors
+
 Kerwin Sun
+
 Nathan Cairns
+
 Eugene Bulog
